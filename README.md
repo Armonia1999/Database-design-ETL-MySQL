@@ -7,3 +7,13 @@ In this project we will design a MySQL database, populate it with the data we go
  Dashboard Link: 
  
  https://public.tableau.com/app/profile/armonia8525/viz/WanhuiSociety/WanhuiDashboard
+ 
+ On Medium:
+ 
+ Part 1: https://blog.devgenius.io/da-portfolio-project-etl-database-design-mysql-part-i-473b340806ca
+ 
+ Part 2: https://blog.devgenius.io/da-portfolio-project-etl-database-design-mysql-part-ii-2e5aac3fc827
+ 
+ Part 3: https://blog.devgenius.io/da-portfolio-project-etl-database-design-mysql-part-iii-129766e1f586
+ 
+ Part 4: https://blog.devgenius.io/da-portfolio-project-etl-database-design-mysql-part-iv-359fc03b9d89
