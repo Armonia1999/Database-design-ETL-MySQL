@@ -1,4 +1,4 @@
-# Database-design-ETL-MySQL
+# Wanhui Society
 
 Hello and welcome to everyone who decided to check this project out. 
 
